@@ -1,5 +1,0 @@
-Testing separator
-
--------
-
-Hey!
